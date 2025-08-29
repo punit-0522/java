@@ -1,4 +1,4 @@
-package nestedloop.java;
+
 public class nestedloop {
 
   public static void main(String[] args) {
@@ -120,4 +120,5 @@ public class nestedloop {
         }
     }
  } 
+
 
