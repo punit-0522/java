@@ -4,6 +4,7 @@
 
 import java.util.Scanner;
 
+// eg:1
 public class TimeComplexity {
 
     public static void main(String[] args) {
@@ -18,7 +19,7 @@ public class TimeComplexity {
 }
 // TIME COMPLEXITY : (n*n times)=O(n^2)
 
-
+// eg:2
  public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n= sc.nextInt();
@@ -31,7 +32,7 @@ public class TimeComplexity {
     }
     // TIME COMPLEXITY: O(n*m)
 
-
+// eg:3
      public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n= sc.nextInt();
@@ -44,3 +45,4 @@ public class TimeComplexity {
             }
     }
 // TIME COMPLEXITY:O(n+m)
+
